@@ -8,15 +8,15 @@ Ti=General Terms and conditions
 
 1.3.0.sec=In the event that a discrepancy arises between any of the terms and conditions established in the Constitutive Agreement, any Accession Agreements and these General Terms and Conditions, including any of their appendices or schedules, any such discrepancy will be resolved in accordance with the following order of priority:
 
-1.3.1.sec=(i) the clauses of the Constitutive Agreement;
+1.3.1.sec=the clauses of the Constitutive Agreement;
 
-1.3.2.sec=(ii) the clauses of any Accession Agreement(s);
+1.3.2.sec=the clauses of any Accession Agreement(s);
 
-1.3.3.sec=(iii) Dataset Terms of Use and related Schedules;
+1.3.3.sec=Dataset Terms of Use and related Schedules;
 
-1.3.4.sec=(iv) these General Terms and Conditions; and
+1.3.4.sec=these General Terms and Conditions; and
 
-1.3.5.sec=(v) other Appendices to the Constitutive Agreement in numerical order.
+1.3.5.sec=other Appendices to the Constitutive Agreement in numerical order.
 
 1.3.=[G/Z/ol-i/s5]
 
@@ -146,13 +146,13 @@ Note=Xref is changed to conform to change in numbering, from 3.3 to 3.1.1 (the f
 
 5.1.3.0.sec=The aforementioned capabilities include e.g. the capability to control Data and its processing by being aware of
 
-5.1.3.1.sec=(i) the origins of the Data (specifically whether the origin is the Party itself, another Party or Third Party);
+5.1.3.1.sec=the origins of the Data (specifically whether the origin is the Party itself, another Party or Third Party);
 
-5.1.3.2.sec=(ii) the basis for processing Data;
+5.1.3.2.sec=the basis for processing Data;
 
-5.1.3.3.sec=(iii) the restrictions and limitations that apply to processing Data; and
+5.1.3.3.sec=the restrictions and limitations that apply to processing Data; and
 
-5.1.3.4.sec=(iv) the rights and restrictions that apply to redistributing or refining Data.
+5.1.3.4.sec=the rights and restrictions that apply to redistributing or refining Data.
 
 5.1.3.=[G/Z/ol-i/s4]
 
@@ -240,9 +240,9 @@ Note=Xref is changed to conform to change in numbering, from 3.3 to 3.1.1 (the f
 
 11.2.0.sec=The Parties will not be liable for any losses, damages, costs, claims or expenses howsoever arising from
 
-11.2.1.sec=(i) a mechanical or electrical breakdown or a power failure or malfunction of any computer and/or Data transmission or receiving apparatus and/or auxiliary equipment or any other cause beyond the reasonable control of the Party; and
+11.2.1.sec=a mechanical or electrical breakdown or a power failure or malfunction of any computer and/or Data transmission or receiving apparatus and/or auxiliary equipment or any other cause beyond the reasonable control of the Party; and
 
-11.2.2.sec=(ii) any failure for making available or supplying the Data.
+11.2.2.sec=any failure for making available or supplying the Data.
 
 11.2.=[G/Z/ol-i/s2]
 
