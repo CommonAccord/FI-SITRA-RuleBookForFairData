@@ -98,7 +98,9 @@ Ti=General Terms and conditions
 
 3.1.3.sec=The Data Source must ensure the lawfulness and origin of the data and represent and warrant that the data does not infringe any Intellectual Property Rights or Confidential Information in the country where the Data Source is established.
 
-3.1.4.sec=As an exception to the above clause 3.3, the Data Source may undertake to grant the right to use certain specific Datasets or types of data to the Network for a fixed period, as defined in the Constitutive Agreement, in order to protect investments made in the Network by other Parties in good faith.
+Note=Xref is changed to conform to change in numbering, from 3.3 to 3.1.1 (the first two subsections are in the intro 3.0).
+
+3.1.4.sec=As an exception to the above clause 3.1.1, the Data Source may undertake to grant the right to use certain specific Datasets or types of data to the Network for a fixed period, as defined in the Constitutive Agreement, in order to protect investments made in the Network by other Parties in good faith.
 
 3.1.=[G/Z/ol/s4]
 
@@ -218,7 +220,7 @@ Ti=General Terms and conditions
 
 10.1.sec=If the Constitutive Agreement is concluded for a fixed period, it will expire without separate notice at the end of the applicable fixed period. If the Constitutive Agreement is concluded for an indefinite period, it will expire upon termination by the Parties.
 
-10.2.sec=The Parties are entitled to continue to use any Data received through the Network prior to the termination of the Constitutive Agreement, unless otherwise determined in the applicable Dataset Terms of Use or agreed by the Parties in the Constitutive Agreement. In such case, the clauses governing use of Data in these General Terms and Conditions, Dataset Terms of Use and/or in the Constitutive Agreement, remain in force according to the Clause 17.1. .
+10.2.sec=The Parties are entitled to continue to use any Data received through the Network prior to the termination of the Constitutive Agreement, unless otherwise determined in the applicable Dataset Terms of Use or agreed by the Parties in the Constitutive Agreement. In such case, the clauses governing use of Data in these General Terms and Conditions, Dataset Terms of Use and/or in the Constitutive Agreement, remain in force according to the Clause 17.1.
 
 10.3.sec=Any Party may choose to terminate the Constitutive Agreement as defined in the Constitutive Agreement. Notice of termination must be provided in writing to the Parties of Constitutive Agreement. In the event that there are more than two Parties to the Constitutive Agreement, the Constitutive Agreement will remain in force for the remaining Parties following the termination thereof by one Party.
 
@@ -234,7 +236,7 @@ Ti=General Terms and conditions
 
 11.Ti=LIABILITY
 
-11.1.sec=The Parties will only be liable for direct damages that result from a breach of the provisions of the Constitutive Agreement as defined hereinafter and where applicable, in the Constitutive Agreement. Any other liabilities are hereby excluded, unless otherwise specifically defined in the Constitutive Agreement. Parties are not liable for loss of profits or damage that is due to a decrease or interruption in production or turnover, or other indirect or consequential damages.1
+11.1.sec=The Parties will only be liable for direct damages that result from a breach of the provisions of the Constitutive Agreement as defined hereinafter and where applicable, in the Constitutive Agreement. Any other liabilities are hereby excluded, unless otherwise specifically defined in the Constitutive Agreement. Parties are not liable for loss of profits or damage that is due to a decrease or interruption in production or turnover, or other indirect or consequential damages.{FtNt.1.Xref}
 
 11.2.0.sec=The Parties will not be liable for any losses, damages, costs, claims or expenses howsoever arising from
 
@@ -244,8 +246,7 @@ Ti=General Terms and conditions
 
 11.2.=[G/Z/ol-i/s2]
 
-
-1 Parties may wish to note that the concept of indirect or consequential damage varies between different jurisdictions.
+FtNt.1.sec=Parties may wish to note that the concept of indirect or consequential damage varies between different jurisdictions.
 
 11.3.sec=Notwithstanding the aforementioned, the Parties must fully compensate any damages resulting from an intentional or grossly negligent breach of the provisions set out in the Constitutive Agreement.
 
@@ -329,4 +330,9 @@ Ti=General Terms and conditions
 
 17.=[G/Z/ol/s3]
 
+00.sec=<b>Footnotes: </b><ol><li>{FtNt.1.sec}</ol>
+
 =[G/Z/ol/17]
+
+FtNt.1.Xref=<sup><a href='#FtNt.1.sec'>1</a></sup>
+
